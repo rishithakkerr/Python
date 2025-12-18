@@ -1,0 +1,12 @@
+Attendance Report
+=================
+
+Attendance Percentage:
+Student ID: 1, Attendance: 100.0%
+Student ID: 2, Attendance: 0.0%
+Student ID: 3, Attendance: 100.0%
+Student ID: 1043, Attendance: 100.0%
+Student ID: 1056, Attendance: 100.0%
+
+Students Below Threshold:
+Student ID: 2, Attendance: 0.0%

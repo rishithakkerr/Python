@@ -1,0 +1,6 @@
+student_id,date,status,late
+1,2025-12-16,Present,False
+2,2025-12-16,Absent,False
+3,2025-12-16,Present,True
+1043,2025-12-18,Present,False
+1056,2025-12-18,Present,False
